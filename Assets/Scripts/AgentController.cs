@@ -9,7 +9,7 @@ using Unity.MLAgents.Sensors;
 
 public class AgentController : Agent
 {
-    [SerializeField] float move_speed = 2f;
+    [SerializeField] float moveSpeed = 2f;
     Rigidbody rb;
     [SerializeField] GunController gunObject;
     bool can_shoot, hit_target, has_shot = false;

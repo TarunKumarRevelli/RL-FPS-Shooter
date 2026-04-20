@@ -12,6 +12,7 @@ public class GunController : MonoBehaviour
     [SerializeField] float laser_range = 600f;
     [SerializeField] private WorldBehaviors worldBehaviors; // Reference to WorldBehaviors script
 
+    // Method to handle shooting the gun
     public bool shootGun()
     {
         if (Physics.Raycast(spawn_point.position, transform.forward, out RaycastHit hit, laser_range))
