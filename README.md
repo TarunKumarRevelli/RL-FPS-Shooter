@@ -1,4 +1,4 @@
-# RL-FPS-Shooter
+# 🎮 Dead-Code: RL-Driven Zombie Survival
 
 A Reinforcement Learning-based First-Person Shooter (FPS) game where an AI agent, trained using **Proximal Policy Optimization (PPO)**, autonomously learns to move, aim, and shoot at zombies. Built using **Unity**, **ML-Agents**, and **Python**.
 
