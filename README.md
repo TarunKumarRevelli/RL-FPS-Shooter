@@ -6,11 +6,11 @@ A Reinforcement Learning-based First-Person Shooter (FPS) game where an AI agent
 
 | Training the Agent | PPO vs SAC Average Reward |
 |--------------------|---------------------------|
-| ![Training the agent](image.png) | ![PPO vs SAC Average Reward](image-1.png) |
+| ![Training the agent](images/image-1.png) | ![PPO vs SAC Average Reward](images/image-2.png) |
 
 | Critic/Value Loss Comparison | Policy Entropy |
 |------------------------------|----------------|
-| ![Critic/Value loss comparison between PPO and SAC](image-2.png) | ![Policy Entropy](image-3.png) |
+| ![Critic/Value loss comparison between PPO and SAC](images/image-3.png) | ![Policy Entropy](images/image-4.png) |
 
 ## 📌 Features
 - **AI-controlled agent** trained using PPO to autonomously navigate and eliminate zombies.
